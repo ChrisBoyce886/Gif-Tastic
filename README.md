@@ -2,10 +2,9 @@
 
 This project is my Unit 6 homework submission for UNC Charlotte's Coding Bootcamp.  
 
-The objective of this assignment was to build an interactive webpage to display GIF's using the Giphy API, AJAX calls, and Javascript & jQuery 
-library to dynamically update the DOM. 
+The objective of this assignment was to build an interactive webpage to display GIF's using the Giphy API, AJAX calls, and Javascript & jQuery library to dynamically update the DOM. 
 
-Click [here]( https://chrisboyce886.github.io/TriviaGame/ ) to navigate to the page. Enjoy! 
+Click [here]( https://chrisboyce886.github.io/Gif-Tastic/ ) to navigate to the page. Enjoy! 
 
 ## Design Notes
 
@@ -16,7 +15,7 @@ using JavaScript & jQuery.
 * Each button clicked prepends the next set of gifs to the top of the page.
 * The user can also search Giphy's entire library of gifs using the search box at the top of the page. When a searched is entered, it 
 creates a new button on the page, and when clicked, shows the user another set of gifs based on the subject of that search parameter. 
-* The user can add as any buttons as they would like. 
+* I used animals for the stock buttons however the user can search for any subject they would like and can add as any buttons as they would like. 
 
 ## Built With
 
