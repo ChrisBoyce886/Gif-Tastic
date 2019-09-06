@@ -26,3 +26,7 @@ creates a new button on the page, and when clicked, shows the user another set o
 * CSS3
 * [Bootstrap 4](https://getbootstrap.com/)
 * HTML5
+
+## Demonstration gif:
+   
+   ![GifTastic](assets/screenshot/gif-tastic.gif "gif-tastic.gif")
